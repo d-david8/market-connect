@@ -9,5 +9,4 @@ public class MarketConnectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MarketConnectApplication.class, args);
 	}
-
 }
